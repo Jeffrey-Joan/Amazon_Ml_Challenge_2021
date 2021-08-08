@@ -3,6 +3,7 @@ PROJECT INTRO/OBJECTIVE
 To compete in an online challenge and learn as much as possible .
 
 TEAM MEMBERS
+
 Jeffrey Joan (Team Leader)
 
 Kumaresh B
