@@ -4,13 +4,13 @@ To compete in an online challenge and learn as much as possible .
 
 TEAM MEMBERS
 
-Jeffrey Joan (Team Leader)
+* Jeffrey Joan (Team Leader)
 
-Kumaresh B
+* Kumaresh B
 
-Nihil Rengasamy
+* Nihil Rengasamy
 
-Prasanth P
+* Prasanth P
 
 METHODS USED
 * Tfidf Vectorizer
